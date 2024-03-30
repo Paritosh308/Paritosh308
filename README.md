@@ -1,8 +1,7 @@
 ## Hi there 👋 Welcome to my Github repository! My name is Paritosh Hattyangdi and I am a robotics enthusiast🤖 inspiring to make great contributions towards space exploration technologies🚀. 
 =====================================
-### *🌎 Currently in Tempe, AZ, USA.
-
-### *🌱 Currently learning robotic systems and technologies.
+### *🌎 Holding a Bachelor of Technology in Electronics Engineering from VIT, Mumbai, India and currently pursuing a Master of Science degree in Robotics and Autonomous Systems (Electrical) Engineering from ASU, Tempe, AZ, USA.
+Math Course Tech Assistant [EdPlus](https://edplus.asu.edu/) & Front Desk Aide [Thunderbird School of Global Management](https://thunderbird.asu.edu/)
 
 ### *💪 Skills in my arsenal: <br>
  💻Softwares: Ubuntu Linux, Windows <br>
