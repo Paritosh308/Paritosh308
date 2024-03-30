@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 my name is Paritosh Hattyangdi and I am a robotics enthusiast🤖 inspiring to make great contributions towards space exploration technologies🚀. 
+=====================================
 
 <!--
 **Paritosh308/Paritosh308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
