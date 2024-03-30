@@ -1,16 +1,16 @@
 ### Hi there 👋 my name is Paritosh Hattyangdi and I am a robotics enthusiast🤖 inspiring to make great contributions towards space exploration technologies🚀. 
 =====================================
-# *🌎 Currently in Tempe, AZ, USA.
+### *🌎 Currently in Tempe, AZ, USA.
 
-# *🌱 Currently learning robotic systems and technologies.
+### *🌱 Currently learning robotic systems and technologies.
 
-# *💪 Skills in my arsenal: 
-  💻Softwares: Ubuntu Linux, Windows
-  🪚Hardware: PCB Desinging and Prototyping, Soldering, Circuit Analysis and Debugging, Fault Finding, CI/CD, Oscilloscope, Function Generator, 
-  ⌨️Coding skills: Python, MATLAB, C, C++, SQL, HTML, CSS, JavaScript, AWS
-  📝Other skills: Product Development & Management, Time Management, Project Management, high Attention-to-Detail, JIRA, Airtable, Cross-functional Teamwork, Hardworking & Passionate Individual 
+### *💪 Skills in my arsenal: 
+ \n 💻Softwares: Ubuntu Linux, Windows
+  \n🪚Hardware: PCB Desinging and Prototyping, Soldering, Circuit Analysis and Debugging, Fault Finding, CI/CD, Oscilloscope, Function Generator, 
+  \n⌨️Coding skills: Python, MATLAB, C, C++, SQL, HTML, CSS, JavaScript, AWS
+  \n📝Other skills: Product Development & Management, Time Management, Project Management, high Attention-to-Detail, JIRA, Airtable, Cross-functional Teamwork, Hardworking & Passionate Individual 
 
-# *🤔 I'm looking for help with internship/co-op opportunities in the USA in the field of Robotics.
+### *🤔 I'm looking for help with internship/co-op opportunities in the USA in the field of Robotics.
 Roles that would suit me are:
 ML Engineer (intern/co-op/fte)
 AI Engineer (intern/co-op/fte)
@@ -23,11 +23,11 @@ Data Analyst (intern/co-op/fte)
 Mechatronics Engineer (intern/co-op/fte)
 Systems Engineer (intern/co-op/fte)
 
-# *📫 How to reach me: 
+### *📫 How to reach me: 
 LinkedIn - [Paritosh](https://www.linkedin.com/in/paritosh-hattyangdi-948453199/)
 Email - [Paritosh Sharad Hattyangdi](mailto:psh.308@gmail.com)
 
-# *⚡ Fun Fact: I dream to be real life Tony Stark 🦸‍♂
+### *⚡ Fun Fact: I dream to be real life Tony Stark 🦸‍♂
 
 
 <!--
