@@ -4,7 +4,7 @@
 Math Course Tech Assistant [EdPlus](https://edplus.asu.edu/) & Front Desk Aide [Thunderbird School of Global Management](https://thunderbird.asu.edu/)
 
 ### *💪 Skills in my arsenal: <br>
- 💻Softwares: Ubuntu Linux, Windows <br>
+ 💻Softwares: Ubuntu Linux, Windows, ROS <br>
  🪚Hardware: PCB Desinging and Prototyping, Soldering, Circuit Analysis and Debugging, Fault Finding, CI/CD, Oscilloscope, Function Generator <br>
  ⌨️Coding skills: Python, MATLAB, C, C++, SQL, HTML, CSS, JavaScript, AWS <br>
  📝Other skills: Product Development & Management, Time Management, Project Management, high Attention-to-Detail, JIRA, Airtable, Cross-functional Teamwork, Hardworking & Passionate Individual <br>
